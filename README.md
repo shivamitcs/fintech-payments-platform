@@ -1,5 +1,6 @@
 # 🏦 Fintech Payments Platform
 
+![Platform](https://img.shields.io/badge/Platform-FinTech-blue)
 ![React](https://img.shields.io/badge/React-18-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 ![Express](https://img.shields.io/badge/Express.js-API-black)
@@ -8,6 +9,7 @@
 ![RBAC](https://img.shields.io/badge/Security-RBAC-success)
 ![Analytics](https://img.shields.io/badge/Analytics-Recharts-orange)
 ![Status](https://img.shields.io/badge/Status-Production-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 Production-ready fintech platform for payment collection, payout management, transaction monitoring, financial analytics, and secure Stripe-powered payment processing.
 

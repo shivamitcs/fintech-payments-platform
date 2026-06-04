@@ -297,7 +297,7 @@ The platform delivers enterprise-grade financial infrastructure through real-tim
 
 <p align="center">
   <img
-    src="./assets/screenshots/login-page.png"
+    src="./assets/screenshots/login.png"
     width="100%"
     alt="Authentication Portal"
   />

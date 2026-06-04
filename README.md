@@ -21,6 +21,11 @@ Production-ready fintech platform for payment collection, payout management, tra
   />
 </p>
 
+<p align="center">
+  <strong>Secure Payment Processing • Payout Management • Financial Analytics • Transaction Monitoring</strong>
+</p>
+
+
 ---
 
 ## 🌐 Live Platform
@@ -143,7 +148,7 @@ The platform follows a modular architecture designed for scalability, maintainab
 
 ---
 
-# Enterprise Features
+# Platform Features
 
 * Real-Time Dashboard Analytics
 * Secure Stripe Payment Processing
@@ -268,7 +273,7 @@ The platform delivers enterprise-grade financial infrastructure through real-tim
 
 <p align="center">
   <img
-    src="./assets/screenshots/payout-page.png"
+    src="./assets/screenshots/payout-management.png"
     width="100%"
     alt="Payout Management"
   />
@@ -441,6 +446,14 @@ Designed with an enterprise engineering mindset, the platform focuses on operati
 Businesses require secure and centralized financial infrastructure capable of handling payments, payouts, transaction monitoring, and reporting efficiently.
 
 The platform was developed to unify financial operations into one modern enterprise-grade experience that simplifies financial management while maintaining security, transparency, and scalability.
+
+---
+
+# Repository Overview
+
+This repository showcases the architecture, workflows, user experience, and engineering decisions behind the Fintech Payments Platform.
+
+The project demonstrates modern fintech development practices including secure payment processing, payout management, financial analytics, transaction lifecycle management, webhook-driven integrations, and scalable SaaS architecture.
 
 ---
 

@@ -27,7 +27,6 @@ Production-ready fintech platform for payment collection, payout management, tra
   <strong>Secure Payment Processing • Payout Management • Financial Analytics • Transaction Monitoring</strong>
 </p>
 
-
 ---
 
 ## 🌐 Live Platform
@@ -225,11 +224,7 @@ The platform follows a modular architecture designed for scalability, maintainab
 # System Architecture
 
 <p align="center">
-  <img
-    src="./assets/architecture/fintech-platform-architecture.png"
-    width="100%"
-    alt="Fintech Platform Architecture"
-  />
+  <img src="./assets/architecture/fintech-platform-architecture.png" width="100%" alt="Fintech Platform Architecture" />
 </p>
 
 The platform follows a layered financial architecture that separates frontend experiences, backend services, authentication, payment processing, webhook handling, transaction management, ledger operations, and data persistence into independent components.
@@ -249,11 +244,7 @@ The platform delivers enterprise-grade financial infrastructure through real-tim
 ### 📊 Financial Dashboard
 
 <p align="center">
-  <img
-    src="./assets/screenshots/dashboard-overview.png"
-    width="100%"
-    alt="Financial Dashboard"
-  />
+  <img src="./assets/screenshots/dashboard-overview.png" width="100%" alt="Financial Dashboard" />
 </p>
 
 ---
@@ -261,11 +252,7 @@ The platform delivers enterprise-grade financial infrastructure through real-tim
 ### 💳 Payment Collection
 
 <p align="center">
-  <img
-    src="./assets/screenshots/payin-management.png"
-    width="100%"
-    alt="Payment Collection"
-  />
+  <img src="./assets/screenshots/payin-management.png" width="100%" alt="Payment Collection" />
 </p>
 
 ---
@@ -273,11 +260,7 @@ The platform delivers enterprise-grade financial infrastructure through real-tim
 ### 🔐 Secure Stripe Checkout
 
 <p align="center">
-  <img
-    src="./assets/screenshots/stripe-payment-checkout.png"
-    width="100%"
-    alt="Stripe Checkout"
-  />
+  <img src="./assets/screenshots/stripe-payment-checkout.png" width="100%" alt="Stripe Checkout"/>
 </p>
 
 ---
@@ -285,11 +268,7 @@ The platform delivers enterprise-grade financial infrastructure through real-tim
 ### 💸 Payout Management
 
 <p align="center">
-  <img
-    src="./assets/screenshots/payout-management.png"
-    width="100%"
-    alt="Payout Management"
-  />
+  <img src="./assets/screenshots/payout-management.png" width="100%" alt="Payout Management" />
 </p>
 
 ---
@@ -297,11 +276,7 @@ The platform delivers enterprise-grade financial infrastructure through real-tim
 ### 📑 Transaction Monitoring
 
 <p align="center">
-  <img
-    src="./assets/screenshots/transaction-history.png"
-    width="100%"
-    alt="Transaction Monitoring"
-  />
+  <img src="./assets/screenshots/transaction-history.png" width="100%" alt="Transaction Monitoring" />
 </p>
 
 ---
@@ -309,11 +284,7 @@ The platform delivers enterprise-grade financial infrastructure through real-tim
 ### 👤 Authentication Portal
 
 <p align="center">
-  <img
-    src="./assets/screenshots/login.png"
-    width="100%"
-    alt="Authentication Portal"
-  />
+  <img src="./assets/screenshots/login.png" width="100%" alt="Authentication Portal" />
 </p>
 
 ---

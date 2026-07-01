@@ -16,11 +16,7 @@ Production-ready fintech platform for payment collection, payout management, tra
 ---
 
 <p align="center">
-  <img
-    src="./assets/branding/fintech-banner.png"
-    width="100%"
-    alt="Fintech Payments Platform Banner"
-  />
+  <img src="./assets/branding/fintech-banner.png" width="100%" alt="Fintech Payments Platform Banner" />
 </p>
 
 <p align="center">
